@@ -1,5 +1,5 @@
 **Day-12 Task-2
-Github Profile Page Design
+Laud-Page
 
 https://laud-page61.netlify.app
 
